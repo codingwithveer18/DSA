@@ -1,0 +1,27 @@
+{
+  "files.associations": {
+    "*.html": "html",
+    "*.jsx": "javascriptreact",
+    "array": "cpp",
+    "bitset": "cpp",
+    "initializer_list": "cpp",
+    "regex": "cpp",
+    "utility": "cpp",
+    "valarray": "cpp",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "new": "cpp",
+    "string": "cpp",
+    "deque": "cpp",
+    "list": "cpp",
+    "vector": "cpp",
+    "any": "cpp",
+    "string_view": "cpp",
+    "ranges": "cpp",
+    "span": "cpp",
+    "stacktrace": "cpp",
+    "barrier": "cpp",
+    "memory_resource": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
